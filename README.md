@@ -1,2 +1,8 @@
 # Vladislav Kostenetskiy - Data Analyst Portfolio
-Vladislav Kostenetskiy - Data Analyst Portfolio
+## Обо мне
+
+Привет, я [Имя]! Коротко о себе: чему учишься, какой опыт и интересы.
+
+Второй абзац: какие навыки получил и чем хочешь заниматься.
+
+Моё резюме:
