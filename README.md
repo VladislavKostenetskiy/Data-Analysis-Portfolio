@@ -12,7 +12,7 @@
 ### Анализ данных Olist
 **Цель:** ...
 
-**Код:** 
+**Код:**  [Часть 1](https://github.com/VladislavKostenetskiy/ProjectFiles/blob/main/Olist%20Analysis.md)
 
 **Описание:** ...
 
